@@ -13,3 +13,5 @@ public interface Consommation {
 // git commit -m "💡 Initialisation du projet TP Refactoring en Java"
 //  git branch -M main 
 // git push -u origin main
+// git pull origin main
+
